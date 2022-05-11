@@ -14,3 +14,6 @@ Additionally, we need to have PyTorch and OpenCV installed. The commands for the
 For real-time use the following command:
 
 python "Real Time.py"
+
+
+Additionally, the test dataset was small, so we created additional test dataset. This is available in the zip files submitted.
